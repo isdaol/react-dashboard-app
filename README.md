@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# React Dashboard App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A frontend web application built with React. This project demonstrates UI development, component-based architecture, and dynamic data rendering.
 
-## Available Scripts
+## Features
+- Interactive user interface
+- Component-based structure
+- Dynamic content rendering
+- Basic state management
 
-In the project directory, you can run:
+## Tech Stack
+- React
+- JavaScript
+- HTML / CSS
 
-### `npm start`
+## Purpose
+This project was created as a final frontend assignment to practice building modern web interfaces using React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to run
+```bash
+npm install
+npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#  2. `backendendterm` → (`flask-backend-api`)
 
-### `npm test`
+```markdown
+# Flask Backend API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A backend application built with Flask. This project demonstrates server-side logic, routing, and CRUD operations.
 
-### `npm run build`
+## Features
+- REST API endpoints
+- CRUD operations (Create, Read, Update, Delete)
+- Form handling
+- Basic backend structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
+- Python
+- Flask
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Purpose
+This project was developed as part of backend coursework to understand how web servers and APIs work.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## How to run
+```bash
+pip install -r requirements.txt
+python app.py
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#  3. `bavkendfinalproject` → (`flask-fullstack-project`)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```markdown
+# Flask Fullstack Project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+A fullstack web application using Flask for backend and HTML/CSS for frontend.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Features
+- User interaction through web interface
+- Backend logic with Flask
+- Data processing and routing
+- Basic fullstack architecture
 
-## Learn More
+## Tech Stack
+- Python
+- Flask
+- HTML / CSS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Purpose
+This project combines frontend and backend development concepts in a single application.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## How to run
+```bash
+pip install -r requirements.txt
+python app.py
 
-### Code Splitting
+# 4. `online-quiz`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```markdown
+# Online Quiz App
 
-### Analyzing the Bundle Size
+A web-based quiz application that allows users to answer questions and receive results.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Features
+- Multiple choice questions
+- Score calculation
+- Interactive UI
+- Simple logic handling
 
-### Making a Progressive Web App
+## Tech Stack
+- JavaScript
+- HTML / CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Purpose
+This project was created to practice JavaScript logic and user interaction in web applications.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## How to run
+Open index.html in your browser
