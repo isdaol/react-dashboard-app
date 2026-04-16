@@ -1,0 +1,104 @@
+{
+    "navbar": {
+      "brand": "BudgetApp",
+      "adminPanel": "Admin Panel",
+      "home": "Home",
+      "budgets": "Budgets",
+      "profile": "Profile",
+      "logout": "Logout",
+      "login": "Login",
+      "register": "Register"
+    },
+    "auth": {
+      "registerTitle": "Register",
+      "loginTitle": "Login",
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "you@example.com",
+      "passwordPlaceholder": "••••••••",
+      "signUpButton": "Sign Up",
+      "loginButton": "Login",
+      "haveAccount": "Have an account? ",
+      "noAccount": "No account? ",
+      "loginLink": "Login",
+      "signUpLink": "Sign up",
+      "registrationFailed": "Registration failed: {{message}}",
+      "loginFailed": "Login failed"
+    },
+    "home": {
+      "title": "Take Control of Your Finances",
+      "subtitle": "Track spending, set budgets, and reach your goals effortlessly.",
+      "newBudget": "New Budget",
+      "viewExpenses": "View Expenses"
+    },
+    "budgets": {
+      "title": "Your Budgets",
+      "newBudget": "+ New Budget",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "budgetForm": {
+      "newTitle": "New Budget",
+      "editTitle": "Edit Budget",
+      "titlePlaceholder": "Title",
+      "descriptionPlaceholder": "Description",
+      "totalPlaceholder": "Total amount",
+      "createButton": "Create",
+      "updateButton": "Update"
+    },
+    "budgetDetails": {
+      "editBudget": "Edit Budget",
+      "searchPlaceholder": "Search...",
+      "amountAsc": "Amount ↑",
+      "amountDesc": "Amount ↓",
+      "expensesTitle": "Expenses",
+      "addExpense": "Add Expense"
+    },
+    "expenseForm": {
+      "newTitle": "New Expense",
+      "editTitle": "Edit Expense",
+      "descriptionPlaceholder": "Description",
+      "amountPlaceholder": "Amount",
+      "createButton": "Create",
+      "updateButton": "Update",
+      "deleteButton": "Delete",
+      "deleteConfirm": "Delete this expense?"
+    },
+    "profile": {
+      "title": "Profile",
+      "noAvatar": "No Avatar",
+      "id": "ID:",
+      "email": "Email:",
+      "role": "Role:",
+      "changePasswordTitle": "Change Password",
+      "newPasswordPlaceholder": "New password",
+      "confirmPasswordPlaceholder": "Confirm password",
+      "updatePasswordButton": "Update Password",
+      "logoutButton": "Logout",
+      "passwordMismatch": "Passwords do not match",
+      "passwordUpdateSuccess": "Password updated",
+      "passwordUpdateFailed": "Update failed",
+      "avatarUploadFailed": "Failed to upload avatar"
+    },
+    "admin": {
+      "title": "Admin Panel",
+      "emailHeader": "Email",
+      "roleHeader": "Role",
+      "changeRoleHeader": "Change Role",
+      "messageHeader": "Message",
+      "messageButton": "Message",
+      "messageTo": "Message to {{email}}",
+      "subjectPlaceholder": "Subject",
+      "messagePlaceholder": "Message",
+      "sendButton": "Send"
+    },
+    "notifications": {
+      "budgetCreated": "Budget created successfully!",
+      "budgetUpdated": "Budget updated!",
+      "expenseCreated": "Expense added!"
+    },
+    "interactivity": {
+      "commentsTitle": "Comments",
+      "addCommentPlaceholder": "Add a comment...",
+      "postButton": "Post"
+    }
+  }

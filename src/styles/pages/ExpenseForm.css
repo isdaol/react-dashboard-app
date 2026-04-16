@@ -1,0 +1,59 @@
+.ef-form {
+    max-width: 360px;
+    margin: 2rem auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: var(--card-background);
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+}
+
+.ef-form h2 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.ef-form input,
+.ef-form button {
+    padding: .75rem 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: .5rem;
+    font-size: 1rem;
+}
+
+.ef-form input {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.ef-form input:focus {
+    border-color: var(--input-focus-border);
+    box-shadow: 0 0 0 3px var(--input-focus-shadow);
+    outline: none;
+}
+
+.ef-form button {
+    border: none;
+    background: var(--button-primary-bg);
+    color: var(--button-text-color);
+    cursor: pointer;
+}
+
+.ef-buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.ef-buttons button {
+    flex: 1;
+}
+
+.ef-delete {
+    background: var(--danger-color) !important;
+}
+
+.ef-delete:hover {
+    background: var(--danger-hover-bg) !important;
+}

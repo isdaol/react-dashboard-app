@@ -1,0 +1,104 @@
+{
+    "navbar": {
+      "brand": "Бюджет",
+      "adminPanel": "Админ-панель",
+      "home": "Главная",
+      "budgets": "Бюджеты",
+      "profile": "Профиль",
+      "logout": "Выйти",
+      "login": "Войти",
+      "register": "Регистрация"
+    },
+    "auth": {
+      "registerTitle": "Регистрация",
+      "loginTitle": "Вход",
+      "namePlaceholder": "Имя",
+      "emailPlaceholder": "you@example.com",
+      "passwordPlaceholder": "••••••••",
+      "signUpButton": "Зарегистрироваться",
+      "loginButton": "Войти",
+      "haveAccount": "Уже есть аккаунт? ",
+      "noAccount": "Нет аккаунта? ",
+      "loginLink": "Войти",
+      "signUpLink": "Зарегистрироваться",
+      "registrationFailed": "Ошибка регистрации: {{message}}",
+      "loginFailed": "Ошибка входа"
+    },
+    "home": {
+      "title": "Возьмите финансы под контроль",
+      "subtitle": "Отслеживайте траты, создавайте бюджеты и достигайте целей без усилий.",
+      "newBudget": "Новый бюджет",
+      "viewExpenses": "Посмотреть расходы"
+    },
+    "budgets": {
+      "title": "Ваши бюджеты",
+      "newBudget": "+ Новый бюджет",
+      "edit": "Изменить",
+      "delete": "Удалить"
+    },
+    "budgetForm": {
+      "newTitle": "Новый бюджет",
+      "editTitle": "Изменить бюджет",
+      "titlePlaceholder": "Название",
+      "descriptionPlaceholder": "Описание",
+      "totalPlaceholder": "Общая сумма",
+      "createButton": "Создать",
+      "updateButton": "Обновить"
+    },
+    "budgetDetails": {
+      "editBudget": "Изменить бюджет",
+      "searchPlaceholder": "Поиск...",
+      "amountAsc": "Сумма ↑",
+      "amountDesc": "Сумма ↓",
+      "expensesTitle": "Расходы",
+      "addExpense": "Добавить расход"
+    },
+    "expenseForm": {
+      "newTitle": "Новый расход",
+      "editTitle": "Изменить расход",
+      "descriptionPlaceholder": "Описание",
+      "amountPlaceholder": "Сумма",
+      "createButton": "Создать",
+      "updateButton": "Обновить",
+      "deleteButton": "Удалить",
+      "deleteConfirm": "Удалить этот расход?"
+    },
+    "profile": {
+      "title": "Профиль",
+      "noAvatar": "Нет аватара",
+      "id": "ID:",
+      "email": "Email:",
+      "role": "Роль:",
+      "changePasswordTitle": "Сменить пароль",
+      "newPasswordPlaceholder": "Новый пароль",
+      "confirmPasswordPlaceholder": "Подтвердите пароль",
+      "updatePasswordButton": "Обновить пароль",
+      "logoutButton": "Выйти из аккаунта",
+      "passwordMismatch": "Пароли не совпадают",
+      "passwordUpdateSuccess": "Пароль обновлен",
+      "passwordUpdateFailed": "Не удалось обновить",
+      "avatarUploadFailed": "Не удалось загрузить аватар"
+    },
+    "admin": {
+      "title": "Панель Администратора",
+      "emailHeader": "Email",
+      "roleHeader": "Роль",
+      "changeRoleHeader": "Сменить роль",
+      "messageHeader": "Сообщение",
+      "messageButton": "Написать",
+      "messageTo": "Сообщение для {{email}}",
+      "subjectPlaceholder": "Тема",
+      "messagePlaceholder": "Сообщение",
+      "sendButton": "Отправить"
+    },
+    "notifications": {
+      "budgetCreated": "Бюджет успешно создан!",
+      "budgetUpdated": "Бюджет обновлен!",
+      "expenseCreated": "Расход добавлен!"
+    },
+    "interactivity": {
+      "commentsTitle": "Комментарии",
+      "addCommentPlaceholder": "Добавьте комментарий...",
+      "postButton": "Опубликовать"
+    }
+  }
